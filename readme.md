@@ -3,7 +3,7 @@
 
 A simple app to keep track of destinations I'd like to visit.
 
-## Imported original destinations
+## Current Destinations
 
-- Florida
-- Paris
+- Thailand
+- Egypt
